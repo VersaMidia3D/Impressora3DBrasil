@@ -363,8 +363,8 @@ Sumário
   <tr>
 	<td><a href="http://www.versamidia.com.br">VersaMídia</a></td>
     <td>Florianópolis - SC</td>
-	<td>ABS, PLA, PETG, TPR Premium</td>
-	  <td>Não informado</td>
+	<td>ABS, PLA, PETG, P-GLASS, TPR Premium</td>
+	  <td>:x:</td>
   </tr>
   <tr>
 	<td><a href="https://www.voolt3d.com.br">Voolt3D</a></td>
